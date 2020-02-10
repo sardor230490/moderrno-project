@@ -1,0 +1,14 @@
+body{
+ background-color: rgb(179, 91, 91);
+ color: seagreen;
+ font-size: 12px;
+}
+.test{
+ width: 100px;
+ height: 1100px;
+}
+.box{
+ display: flex;
+ transition: all .3s;
+}
+
